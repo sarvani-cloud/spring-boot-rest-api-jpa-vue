@@ -1,0 +1,38 @@
+{
+  "vehicle": {
+	"registrationNumber":"LI10RYT",
+	"make":"Vauxhall",
+	"model":"Zafira",
+	"fuelType":"PETROL",
+	"categoryDetails":{
+	  "size":"Estate",
+	  "price":35
+	},
+	"customer":{
+	  "name": "Tom",
+	  "insuranceId":124,
+	  "type":"Individual"
+	},
+	"finishDate" : "2020/12/07"
+  },
+  "vehicle": {
+	"registrationNumber":"AK10RYT",
+	"make":"BMW",
+	"model":"X5",
+	"fuelType":"DIESEL",
+	"categoryDetails":{
+	  "size":"Small",
+	  "price":25
+	}
+  },
+  "vehicle": {
+	"registrationNumber":"KK10RYT",
+	"make":"Mercides",
+	"model":"Q6",
+	"fuelType":"DIESEL",
+	"categoryDetails":{
+	  "size":"Van",
+	  "price":50
+	}
+  }
+}
